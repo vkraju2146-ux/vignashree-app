@@ -1,0 +1,27 @@
+VIGNASHREE SPARKLE WORD PLAY – INSTALLABLE TABLET APP (PWA)
+
+This version is an installable web app. Once installed from Chrome, it opens full-screen from the tablet home screen like a normal app and works offline after the first complete load.
+
+IMPORTANT
+A PWA must first be opened from an HTTPS website. Opening index.html directly from the tablet's file manager will run the learning content, but Android will not show the Install App option.
+
+EASIEST INSTALLATION METHOD
+1. Extract this ZIP on a computer.
+2. Upload the complete extracted folder to any HTTPS static hosting service.
+   Examples: Netlify Drop, GitHub Pages, Cloudflare Pages, Firebase Hosting, or your organisation's website.
+3. Open the published web address in Google Chrome on the child's Android tablet.
+4. Wait for the first load to finish. The chapter PDFs are large, so keep the internet connected.
+5. Tap “Install on Tablet” on the welcome screen.
+   Alternatively: Chrome menu (three dots) → Add to Home screen / Install app.
+6. Open “Vignashree” from the tablet home screen.
+7. After the first full load, most app content works offline.
+
+WHAT IS INCLUDED
+- Home-screen icon made from Vignashree's photograph
+- Full-screen standalone app display
+- Offline cache for the app, glossary, images and chapter PDFs
+- Install button on the welcome screen
+- All Version 6 learning features
+
+ABOUT APK
+This package is a PWA rather than a signed Android APK. A signed APK needs Android compilation and app signing. The PWA is safer to update because future versions can replace the hosted files without reinstalling the app.
